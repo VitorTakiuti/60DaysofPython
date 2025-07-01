@@ -1,2 +1,5 @@
-# 60DaysofPython
-60 days programming with Python
+# 60 days programming with Python
+
+- [ ] Day 1 -
+- [ ] Day 2 -
+- [ ] 
