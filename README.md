@@ -7,7 +7,7 @@
 - [x] Day 5 - Function that calculate the square of a number
 - [x] Day 6 - Creating a Fruit List
 - [x] Day 7 - Static and Dinamic Dictionaries
-- [ ] Day n -
+- [x] Day 8 - Checking the Age of the user to see if he or she can drive or not
 - [ ] Day n -
 - [ ] Day n -
 - [ ] Day n -
