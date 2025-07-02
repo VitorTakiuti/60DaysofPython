@@ -6,7 +6,7 @@
 - [x] Day 4 - Using For and While to print numbers
 - [x] Day 5 - Function that calculate the square of a number
 - [x] Day 6 - Creating a Fruit List
-- [ ] Day 7 -
+- [x] Day 7 - Static and Dinamic Dictionaries
 - [ ] Day n -
 - [ ] Day n -
 - [ ] Day n -
