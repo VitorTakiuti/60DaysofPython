@@ -9,7 +9,7 @@
 - [x] Day 7 - Static and Dinamic Dictionaries
 - [x] Day 8 - Checking the Age of the user to see if he or she can drive or not
 - [x] Day 9 - A number Counter with limits
-- [ ] Day n -
+- [x] Day 10 - Password Generator
 - [ ] Day n -
 - [ ] Day n -
 - [ ] Day n -
