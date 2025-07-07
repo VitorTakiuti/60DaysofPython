@@ -10,7 +10,7 @@
 - [x] Day 8 - Checking the Age of the user to see if he or she can drive or not
 - [x] Day 9 - A number Counter with limits
 - [x] Day 10 - Password Generator
-- [ ] Day n -
+- [x] Day 11 - Using SORTED to organize a list of numbers
 - [ ] Day n -
 - [ ] Day n -
 - [ ] Day n -
