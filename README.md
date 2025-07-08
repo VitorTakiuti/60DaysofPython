@@ -21,7 +21,7 @@
 - [x] Day 19 - Mean Calculator
 - [x] Day 20 - Transpose a Matrix
 - [x] Day 21 - Currency Converter
-- [ ] Day 22 -
+- [x] Day 22 - BMI Calculator
 - [ ] Day 23 -
 - [ ] Day 24 -
 - [ ] Day n -
