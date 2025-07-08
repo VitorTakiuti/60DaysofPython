@@ -17,7 +17,7 @@
 - [x] Day 15 - Fibonacci Sequence
 - [x] Day 16 - Anagram Words Checker
 - [x] Day 17 - Palindrome Checker
-- [ ] Day 18 -
+- [x] Day 18 - Word Counter 
 - [ ] Day 19 -
 - [ ] Day 20 -
 - [ ] Day 21 -
