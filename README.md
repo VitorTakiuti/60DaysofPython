@@ -19,7 +19,7 @@
 - [x] Day 17 - Palindrome Checker
 - [x] Day 18 - Word Counter 
 - [x] Day 19 - Mean Calculator
-- [ ] Day 20 -
+- [x] Day 20 - Transpose a Matrix
 - [ ] Day 21 -
 - [ ] Day 22 -
 - [ ] Day 23 -
