@@ -14,7 +14,7 @@
 - [x] Day 12 - Linear Search using List
 - [x] Day 13 - Factorial Function
 - [x] Day 14 - Prime Number Checker
-- [ ] Day n -
+- [x] Day 15 - Fibonacci Sequence
 - [ ] Day n -
 - [ ] Day n -
 - [ ] Day n -
