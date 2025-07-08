@@ -12,7 +12,7 @@
 - [x] Day 10 - Password Generator
 - [x] Day 11 - Using SORTED to organize a list of numbers
 - [x] Day 12 - Linear Search using List
-- [ ] Day n -
+- [x] Day 13 - Factorial Function
 - [ ] Day n -
 - [ ] Day n -
 - [ ] Day n -
