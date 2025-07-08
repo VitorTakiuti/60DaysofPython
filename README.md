@@ -13,7 +13,7 @@
 - [x] Day 11 - Using SORTED to organize a list of numbers
 - [x] Day 12 - Linear Search using List
 - [x] Day 13 - Factorial Function
-- [ ] Day n -
+- [x] Day 14 - Prime Number Checker
 - [ ] Day n -
 - [ ] Day n -
 - [ ] Day n -
