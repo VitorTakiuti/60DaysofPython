@@ -18,7 +18,7 @@
 - [x] Day 16 - Anagram Words Checker
 - [x] Day 17 - Palindrome Checker
 - [x] Day 18 - Word Counter 
-- [ ] Day 19 -
+- [x] Day 19 - Mean Calculator
 - [ ] Day 20 -
 - [ ] Day 21 -
 - [ ] Day 22 -
