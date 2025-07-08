@@ -15,6 +15,15 @@
 - [x] Day 13 - Factorial Function
 - [x] Day 14 - Prime Number Checker
 - [x] Day 15 - Fibonacci Sequence
+- [x] Day 16 - Anagram Words Checker
+- [ ] Day 17 -
+- [ ] Day 18 -
+- [ ] Day 19 -
+- [ ] Day 20 -
+- [ ] Day 21 -
+- [ ] Day 22 -
+- [ ] Day 23 -
+- [ ] Day 24 -
 - [ ] Day n -
 - [ ] Day n -
 - [ ] Day n -
@@ -24,4 +33,15 @@
 - [ ] Day n -
 - [ ] Day n -
 - [ ] Day n -
+- [ ] Day n -
+- [ ] Day n -
+- [ ] Day n -
+- [ ] Day n -
+- [ ] Day n -
+- [ ] Day n -
+- [ ] Day n -
+- [ ] Day n -
+- [ ] Day n -
+- [ ] Day n -
+
 
