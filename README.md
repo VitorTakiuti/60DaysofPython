@@ -16,7 +16,7 @@
 - [x] Day 14 - Prime Number Checker
 - [x] Day 15 - Fibonacci Sequence
 - [x] Day 16 - Anagram Words Checker
-- [ ] Day 17 -
+- [x] Day 17 - Palindrome Checker
 - [ ] Day 18 -
 - [ ] Day 19 -
 - [ ] Day 20 -
