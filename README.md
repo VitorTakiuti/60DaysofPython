@@ -27,7 +27,7 @@
 - [x] Day 25 - Create a Random Number Generator
 - [x] Day 26 - TXT file Generator(Create, Write, Read) 
 - [x] Day 27 - Temperature Converter Celsius <--> Fahrenheit
-- [ ] Day 28 -
+- [x] Day 28 - Basic StopWatch
 - [ ] Day 29 -
 - [ ] Day 30 -
 - [ ] Day 31 -
