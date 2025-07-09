@@ -29,7 +29,7 @@
 - [x] Day 27 - Temperature Converter Celsius <--> Fahrenheit
 - [x] Day 28 - Basic StopWatch
 - [x] Day 29 - Time and Date Generator
-- [ ] Day 30 -
+- [x] Day 30 - 10 seconds StopWatch
 - [ ] Day 31 -
 - [ ] Day 32 -
 - [ ] Day 33 -
