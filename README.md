@@ -26,7 +26,7 @@
 - [x] Day 24 - Multiplication Table
 - [x] Day 25 - Create a Random Number Generator
 - [x] Day 26 - TXT file Generator(Create, Write, Read) 
-- [ ] Day 27 -
+- [x] Day 27 - Temperature Converter Celsius <--> Fahrenheit
 - [ ] Day 28 -
 - [ ] Day 29 -
 - [ ] Day 30 -
