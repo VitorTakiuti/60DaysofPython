@@ -24,7 +24,7 @@
 - [x] Day 22 - BMI Calculator
 - [x] Day 23 - Number Guesser Game
 - [x] Day 24 - Multiplication Table
-- [ ] Day 25 -
+- [x] Day 25 - Create a Random Number Generator
 - [ ] Day 26 -
 - [ ] Day 27 -
 - [ ] Day 28 -
