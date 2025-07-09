@@ -28,7 +28,7 @@
 - [x] Day 26 - TXT file Generator(Create, Write, Read) 
 - [x] Day 27 - Temperature Converter Celsius <--> Fahrenheit
 - [x] Day 28 - Basic StopWatch
-- [ ] Day 29 -
+- [x] Day 29 - Time and Date Generator
 - [ ] Day 30 -
 - [ ] Day 31 -
 - [ ] Day 32 -
