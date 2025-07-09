@@ -23,7 +23,7 @@
 - [x] Day 21 - Currency Converter
 - [x] Day 22 - BMI Calculator
 - [x] Day 23 - Number Guesser Game
-- [ ] Day 24 -
+- [x] Day 24 - Multiplication Table
 - [ ] Day 25 -
 - [ ] Day 26 -
 - [ ] Day 27 -
