@@ -30,7 +30,7 @@
 - [x] Day 28 - Basic StopWatch
 - [x] Day 29 - Time and Date Generator
 - [x] Day 30 - 10 seconds StopWatch
-- [ ] Day 31 -
+- [x] Day 31 - Function that Calculates the Square root of any number
 - [ ] Day 32 -
 - [ ] Day 33 -
 - [ ] Day 34 -
