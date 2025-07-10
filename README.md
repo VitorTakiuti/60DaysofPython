@@ -36,7 +36,7 @@
 - [x] Day 34 - JSON Manipulate
 - [x] Day 35 - HTTPS Request API Chuck Norris Joke
 - [x] Day 36 - Using BeautifulSoup to get information in URls(STAR WARS)
-- [ ] Day 37 -
+- [x] Day 37 - Building a CSV READER 
 - [ ] Day 38 -
 - [ ] Day 39 -
 - [ ] Day 40 -
