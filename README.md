@@ -38,7 +38,7 @@
 - [x] Day 36 - Using BeautifulSoup to get information in URls(STAR WARS)
 - [x] Day 37 - Building a CSV READER 
 - [x] Day 38 - Using CHATGPT with python terminal
-- [ ] Day 39 -
+- [x] Day 39 - Creating a Bar Graphic in Terminal (Dragon Ball Z Characters)
 - [ ] Day 40 -
 - [ ] Day 41 -
 - [ ] Day 42 -
