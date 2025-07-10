@@ -33,7 +33,7 @@
 - [x] Day 31 - Function that Calculates the Square root of any number
 - [x] Day 32 - Creating a Random dice throw
 - [x] Day 33 - Occurency Counter
-- [ ] Day 34 -
+- [x] Day 34 - JSON Manipulate
 - [ ] Day 35 -
 - [ ] Day 36 -
 - [ ] Day 37 -
