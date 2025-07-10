@@ -34,7 +34,7 @@
 - [x] Day 32 - Creating a Random dice throw
 - [x] Day 33 - Occurency Counter
 - [x] Day 34 - JSON Manipulate
-- [ ] Day 35 -
+- [x] Day 35 - HTTPS Request API Chuck Norris Joke
 - [ ] Day 36 -
 - [ ] Day 37 -
 - [ ] Day 38 -
