@@ -35,7 +35,7 @@
 - [x] Day 33 - Occurency Counter
 - [x] Day 34 - JSON Manipulate
 - [x] Day 35 - HTTPS Request API Chuck Norris Joke
-- [ ] Day 36 -
+- [x] Day 36 - Using BeautifulSoup to get information in URls(STAR WARS)
 - [ ] Day 37 -
 - [ ] Day 38 -
 - [ ] Day 39 -
