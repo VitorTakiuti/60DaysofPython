@@ -37,7 +37,7 @@
 - [x] Day 35 - HTTPS Request API Chuck Norris Joke
 - [x] Day 36 - Using BeautifulSoup to get information in URls(STAR WARS)
 - [x] Day 37 - Building a CSV READER 
-- [ ] Day 38 -
+- [x] Day 38 - Using CHATGPT with python terminal
 - [ ] Day 39 -
 - [ ] Day 40 -
 - [ ] Day 41 -
