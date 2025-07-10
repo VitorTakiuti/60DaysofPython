@@ -31,7 +31,7 @@
 - [x] Day 29 - Time and Date Generator
 - [x] Day 30 - 10 seconds StopWatch
 - [x] Day 31 - Function that Calculates the Square root of any number
-- [ ] Day 32 -
+- [x] Day 32 - Creating a Random dice throw
 - [ ] Day 33 -
 - [ ] Day 34 -
 - [ ] Day 35 -
