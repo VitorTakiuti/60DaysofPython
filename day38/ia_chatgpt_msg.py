@@ -17,7 +17,7 @@ chat_completion = client.chat.completions.create(
             "content": "hi, how are you?"
         }
     ], 
-    model="gpt-3" #Your GPT model
+    model="gpt-3.5-turbo" #Your GPT model
 )
 
 print(chat_completion.choices[0].message.content)
