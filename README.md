@@ -32,7 +32,7 @@
 - [x] Day 30 - 10 seconds StopWatch
 - [x] Day 31 - Function that Calculates the Square root of any number
 - [x] Day 32 - Creating a Random dice throw
-- [ ] Day 33 -
+- [x] Day 33 - Occurency Counter
 - [ ] Day 34 -
 - [ ] Day 35 -
 - [ ] Day 36 -
