@@ -37,14 +37,14 @@
 - [x] Day 35 - HTTPS Request API Chuck Norris Joke
 - [x] Day 36 - Using BeautifulSoup to get information in URls(STAR WARS)
 - [x] Day 37 - Building a CSV READER 
-- [x] Day 38 - Using CHATGPT with python terminal
+- [x] Day 38 - Using CHATGPT Artificial Intelligence with python terminal
 - [x] Day 39 - Creating a Bar Graphic in Terminal (Dragon Ball Z Characters)
 - [x] Day 40 - Object-Oriented Programming with Anime Characters
 - [x] Day 41 - Creating a Heritage with Classes (Vehicle and Car)
 - [x] Day 42 - Learning OS in Python
 - [x] Day 43 - Using Try and Except to run the code without StopErrors
 - [x] Day 44 - Function that validates emails
-- [ ] Day 45 -
+- [x] Day 45 - Multi Taking with Python
 - [ ] Day 46 -
 - [ ] Day 47 -
 - [ ] Day 48 -
