@@ -40,12 +40,12 @@
 - [x] Day 38 - Using CHATGPT with python terminal
 - [x] Day 39 - Creating a Bar Graphic in Terminal (Dragon Ball Z Characters)
 - [x] Day 40 - Object-Oriented Programming with Anime Characters
-- [x] Day 41 -
-- [x] Day 42 -
-- [x] Day 43 -
-- [x] Day 44 -
-- [x] Day 45 -
-- [x] Day 46 -
+- [ ] Day 41 -
+- [ ] Day 42 -
+- [ ] Day 43 -
+- [ ] Day 44 -
+- [ ] Day 45 -
+- [ ] Day 46 -
 - [ ] Day 47 -
 - [ ] Day 48 -
 - [ ] Day 49 -
