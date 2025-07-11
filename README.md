@@ -43,7 +43,7 @@
 - [x] Day 41 - Creating a Heritage with Classes (Vehicle and Car)
 - [x] Day 42 - Learning OS in Python
 - [x] Day 43 - Using Try and Except to run the code without StopErrors
-- [ ] Day 44 -
+- [x] Day 44 - Function that validates emails
 - [ ] Day 45 -
 - [ ] Day 46 -
 - [ ] Day 47 -
