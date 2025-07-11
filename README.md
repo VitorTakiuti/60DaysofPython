@@ -41,7 +41,7 @@
 - [x] Day 39 - Creating a Bar Graphic in Terminal (Dragon Ball Z Characters)
 - [x] Day 40 - Object-Oriented Programming with Anime Characters
 - [x] Day 41 - Creating a Heritage with Classes (Vehicle and Car)
-- [ ] Day 42 -
+- [x] Day 42 - Learning OS in Python
 - [ ] Day 43 -
 - [ ] Day 44 -
 - [ ] Day 45 -
