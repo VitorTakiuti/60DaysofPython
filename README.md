@@ -42,7 +42,7 @@
 - [x] Day 40 - Object-Oriented Programming with Anime Characters
 - [x] Day 41 - Creating a Heritage with Classes (Vehicle and Car)
 - [x] Day 42 - Learning OS in Python
-- [ ] Day 43 -
+- [x] Day 43 - Using Try and Except to run the code without StopErrors
 - [ ] Day 44 -
 - [ ] Day 45 -
 - [ ] Day 46 -
