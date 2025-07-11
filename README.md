@@ -40,7 +40,7 @@
 - [x] Day 38 - Using CHATGPT with python terminal
 - [x] Day 39 - Creating a Bar Graphic in Terminal (Dragon Ball Z Characters)
 - [x] Day 40 - Object-Oriented Programming with Anime Characters
-- [ ] Day 41 -
+- [x] Day 41 - Creating a Heritage with Classes (Vehicle and Car)
 - [ ] Day 42 -
 - [ ] Day 43 -
 - [ ] Day 44 -
