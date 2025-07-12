@@ -46,7 +46,7 @@
 - [x] Day 44 - Function that validates emails
 - [x] Day 45 - Multi Taking with Python
 - [x] Day 46 - Creating a Socket: Server and Client
-- [ ] Day 47 -
+- [x] Day 47 - Building DECORATORS to functions
 - [ ] Day 48 -
 - [ ] Day 49 -
 - [ ] Day 50 -
