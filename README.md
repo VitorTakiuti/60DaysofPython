@@ -45,7 +45,7 @@
 - [x] Day 43 - Using Try and Except to run the code without StopErrors
 - [x] Day 44 - Function that validates emails
 - [x] Day 45 - Multi Taking with Python
-- [ ] Day 46 -
+- [x] Day 46 - Creating a Socket: Server and Client
 - [ ] Day 47 -
 - [ ] Day 48 -
 - [ ] Day 49 -
