@@ -48,7 +48,7 @@
 - [x] Day 46 - Creating a Socket: Server and Client
 - [x] Day 47 - Building DECORATORS to functions
 - [x] Day 48 - Generators to create lists and just store the last item (yield)
-- [ ] Day 49 -
+- [x] Day 49 - SQLite DataBase(Table, Update, Delete, Read)
 - [ ] Day 50 -
 - [ ] Day 51 -
 - [ ] Day 52 -
