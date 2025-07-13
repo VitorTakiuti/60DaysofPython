@@ -47,7 +47,7 @@
 - [x] Day 45 - Multi Taking with Python
 - [x] Day 46 - Creating a Socket: Server and Client
 - [x] Day 47 - Building DECORATORS to functions
-- [ ] Day 48 -
+- [x] Day 48 - Generators to create lists and just store the last item (yield)
 - [ ] Day 49 -
 - [ ] Day 50 -
 - [ ] Day 51 -
