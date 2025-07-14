@@ -49,7 +49,7 @@
 - [x] Day 47 - Building DECORATORS to functions
 - [x] Day 48 - Generators to create lists and just store the last item (yield)
 - [x] Day 49 - SQLite DataBase(Table, Update, Delete, Read)
-- [ ] Day 50 -
+- [x] Day 50 - AUTO CLICkER 
 - [ ] Day 51 -
 - [ ] Day 52 -
 - [ ] Day 53 -
