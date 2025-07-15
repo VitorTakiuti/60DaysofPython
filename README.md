@@ -50,7 +50,7 @@
 - [x] Day 48 - Generators to create lists and just store the last item (yield)
 - [x] Day 49 - SQLite DataBase(Table, Update, Delete, Read)
 - [x] Day 50 - AUTO CLICkER 
-- [ ] Day 51 -
+- [x] Day 51 - Scrap Info of URLs using BEAUTIFULSOUP
 - [ ] Day 52 -
 - [ ] Day 53 -
 
