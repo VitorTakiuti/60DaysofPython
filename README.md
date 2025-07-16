@@ -51,7 +51,16 @@
 - [x] Day 49 - SQLite DataBase(Table, Update, Delete, Read)
 - [x] Day 50 - AUTO CLICkER 
 - [x] Day 51 - Scrap Info of URLs using BEAUTIFULSOUP
-- [ ] Day 52 -
+- [x] Day 52 - Building Graphics using MATPLOTLIB
 - [ ] Day 53 -
+- [ ] Day 54 - 
+- [ ] Day 55 - 
+- [ ] Day 56 - 
+- [ ] Day 57 - 
+- [ ] Day 58 - 
+- [ ] Day 59 - 
+- [ ] Day 60 - 
+
+
 
 
