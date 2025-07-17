@@ -52,7 +52,7 @@
 - [x] Day 50 - AUTO CLICkER 
 - [x] Day 51 - Scrap Info of URLs using BEAUTIFULSOUP
 - [x] Day 52 - Building Graphics using MATPLOTLIB
-- [ ] Day 53 -
+- [x] Day 53 - Using OPENCV to change the colors and get info of a PNG image
 - [ ] Day 54 - 
 - [ ] Day 55 - 
 - [ ] Day 56 - 
