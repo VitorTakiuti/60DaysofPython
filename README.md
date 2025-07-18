@@ -53,7 +53,7 @@
 - [x] Day 51 - Scrap Info of URLs using BEAUTIFULSOUP
 - [x] Day 52 - Building Graphics using MATPLOTLIB
 - [x] Day 53 - Using OPENCV to change the colors and get info of a PNG image
-- [ ] Day 54 - 
+- [x] Day 54 - PANDAS and MATPLOTLIB in Data Analysis 
 - [ ] Day 55 - 
 - [ ] Day 56 - 
 - [ ] Day 57 - 
