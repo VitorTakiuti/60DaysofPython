@@ -54,7 +54,7 @@
 - [x] Day 52 - Building Graphics using MATPLOTLIB
 - [x] Day 53 - Using OPENCV to change the colors and get info of a PNG image
 - [x] Day 54 - PANDAS and MATPLOTLIB in Data Analysis 
-- [ ] Day 55 - 
+- [x] Day 55 - Program that check Characters(Numbers, Letters) in Images
 - [ ] Day 56 - 
 - [ ] Day 57 - 
 - [ ] Day 58 - 
