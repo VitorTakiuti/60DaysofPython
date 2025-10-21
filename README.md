@@ -55,7 +55,7 @@
 - [x] Day 53 - Using OPENCV to change the colors and get info of a PNG image
 - [x] Day 54 - PANDAS and MATPLOTLIB in Data Analysis 
 - [x] Day 55 - Program that check Characters(Numbers, Letters) in Images
-- [ ] Day 56 - 
+- [x] Day 56 - Creating a Interative Graphic using Plotly
 - [ ] Day 57 - 
 - [ ] Day 58 - 
 - [ ] Day 59 - 
